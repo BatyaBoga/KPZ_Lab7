@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KPZ_Lab7.Flyweight.FlyweightSnowflake">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAgAAAAAAgAAAAAAAAAAAAAhAAAAAAAg=</HashCode>
+      <FileName>Flyweight\FlyweightSnowflake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPZ_Lab7.Flyweight.Snowfall">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Flyweight\Snawfall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPZ_Lab7.Flyweight.Snowflake">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAIAAAAAAAAAAAACAAAAAAAAABAA=</HashCode>
+      <FileName>Flyweight\Snowflake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPZ_Lab7.Form1">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQMAABAACAAAAQAAACAAAACAAAAIAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.83" />
+</ClassDiagram>
